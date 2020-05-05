@@ -1,2 +1,2 @@
-# fcc-infosec
-FreeCodeCamp Info Security
+# Free Code Camp - Applied InfoSec Challenges
+=============================================
